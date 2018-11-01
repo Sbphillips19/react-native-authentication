@@ -30,9 +30,10 @@ messagingSenderId: ''
 4.  To run on iphone: react-native run-ios
     To run on android: react-native run-android
 
-    ![alt text](documentation/mainScreen.png 'mainScreen')
+<img src="documentation/mainScreen.png" width="50">
 
     Can do any valid email, but need password to be 'password'
 
-    ![alt text](documentation/filledIn.png 'Filled In')
-    ![alt text](documentation/logOut.png 'Log Out')
+<img src="documentation/filledIn.png" width="50">
+
+<img src="documentation/logOut.png" width="50">
